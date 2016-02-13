@@ -48,5 +48,3 @@ alias byes='exit'
 # alias letcat='git checkout'
 # alias violenz='git rebase'
 #
-
-alias vi="/usr/bin/vim"
